@@ -27,6 +27,9 @@ The Internet voting system tends to maximize user participation, by allowing the
 - Javascript
 - MongoDB
 - Bootstrap
+- Open CV
+- Flask
+- Python
 
 
 ## How to get started?
